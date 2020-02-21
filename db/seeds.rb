@@ -1,5 +1,5 @@
 User.create!(name:  "Neshma Patel",
-             email: "neshmapatel@gmail.org",
+             email: "neshmapatel1399            @gmail.org",
              password:              "111111",
              password_confirmation: "111111",
              admin: true,
