@@ -2,7 +2,7 @@
 
 
 This is the sample application by Neshma Patel.
-This application is similar to twitter which is developed using basic concepts of ROR.
+This application is similar to twitter which is made using basic conceots of ROR.
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
@@ -29,7 +29,7 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-* Ruby version 2.5
+* Ruby version
 
 * System dependencies
 
